@@ -8,7 +8,7 @@ for new repo:
 
 if updated:
 
-1: git status: check for staging... red or files 
+1: git status: check for staging... red or green files 
 2: if red: git add . : add files to staging
 3: git commit -m "message" - commit to 3rd stage with message
 4: git push -u remote_name branch_name : pushing into github online repo
