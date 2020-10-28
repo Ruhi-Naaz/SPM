@@ -1,0 +1,14 @@
+for new repo:
+1: git init - initiate repo
+2: git add . - add files to staging
+3: git commit -m "message" - commit to 3rd stage with message
+4: git remote add remote_name remote_url : connect to github repo using remotes
+5: git branch -M branch_name : adding a branch in the repo
+6: git push -u remote_name branch_name : pushing into github online repo
+
+if updated:
+
+1: git status: check for staging... red or files 
+2: if red: git add . : add files to staging
+3: git commit -m "message" - commit to 3rd stage with message
+4: git push -u remote_name branch_name : pushing into github online repo
